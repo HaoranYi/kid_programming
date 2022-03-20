@@ -1,0 +1,2 @@
+x=ord( '.' )
+print(x)

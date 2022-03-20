@@ -1,0 +1,88 @@
+#-*- mode: org -*-
+#+STARTUP: showall
+
+
+* Kid's Program in Python
+
+**[[file:teach_your_kids_to_code_a_parent-friendly_guide_to_python_programming__2015_.pdf][ Teach kids to code]]
+
+** Content
+
+*** 1. environment setup
+    -  command line
+
+ #+BEGIN_SRC shell
+ start.bat
+ activate
+ #+END_SRC
+
+    - use vscode
+        C-j toggle pannel view
+	C-1 go to editor
+    - learn turtle lib
+    - learn input and print
+
+*** 2. draw with turtle
+    - square_spiral.py
+    - for loop
+
+*** 3. number, variable and math
+    - input, print variable
+    - simple math
+    - variable assignment and reference
+    - pizza.py
+    - string: input, print
+    - spiral with string
+    - solve your math problem
+
+*** 4. loops
+    - list, append
+    - IO
+    - for loop, while loop
+    - range, loop condition
+
+*** 5. condition
+    - if-else, elif statement
+    - boolean and comparision
+    - complex conditon: and or not
+    - string functions
+    - ascii value for characters
+
+*** 6. random number
+    - random
+    - cartesian coordinate
+    - card game
+    - dice
+    - kaleidoscope
+
+*** 7. function
+    - def, parameter, return
+    - random simley
+    - ping_pong_calculator
+    - interaction with event-driven app
+
+*** 8. timer and animation
+    - pygame
+      $ python -m pip install pygame
+    - game event, game loop
+    - bouncy smiley face
+    - random dots
+
+*** 9. UI
+    - click and drag
+    - drawing game
+    - similey explosion
+    - simily pop
+
+*** 10. game programming
+    - animation and UI
+    - smiley pong
+    - class and object
+
+** Schedule
+   - 3 classes a week; each class 45
+     |----------+-----|
+     | Tuesday  | 7PM |
+     | Thursday | 7PM |
+     | Sunday   | 9AM |
+     |----------+-----|

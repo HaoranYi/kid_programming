@@ -1,0 +1,13 @@
+1. python basics: know your envirnment
+2. turtle graphics: drawing with python
+3. numbers and variables: python does math
+4. loops are fun
+5. conditon (what if)
+6. random fun and games: go ahead and take a chance
+7. functions
+8. timers and animations
+9. user interaction
+10. game programming
+
+programming challenges
+www.nostarch.com/teachkids
